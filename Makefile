@@ -90,7 +90,7 @@ deps:
 	$(GO) install github.com/golangci/golangci-lint/cmd/golangci-lint@latest
 	$(GO) install github.com/securego/gosec/v2/cmd/gosec@latest
 	$(GO) install golang.org/x/vuln/cmd/govulncheck@latest
-	$(GO) install github.com/vektra/mockgen/v2/cmd/mockgen@latest
+	$(GO) install github.com/golang/mock/mockgen@latest
 
 # Format, lint, vet, test, security checks, and build
 .PHONY: ci

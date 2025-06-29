@@ -14,7 +14,7 @@ A simple Go web application using Gin framework.
 1. Clone the repository:
    ```bash
    git clone https://github.com/hasanashik/GoCloakZaman.git
-   cd myProject
+   cd GoCloakZaman
    ```
 2. Install dependencies:
    ```bash
