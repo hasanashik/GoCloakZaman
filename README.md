@@ -2,7 +2,7 @@
 
 # Simple Gin Project
 
-A simple Go web application using Gin framework that returns "Hello, World!".
+A simple Go web application using Gin framework.
 
 ## Prerequisites
 
@@ -13,8 +13,8 @@ A simple Go web application using Gin framework that returns "Hello, World!".
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hello-world-gin.git
-   cd hello-world-gin
+   git clone https://github.com/hasanashik/GoCloakZaman.git
+   cd myProject
    ```
 2. Install dependencies:
    ```bash
